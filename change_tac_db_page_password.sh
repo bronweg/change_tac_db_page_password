@@ -2,7 +2,7 @@
 
 ######
 # This script changing the Talend database config page password.
-# Wrote by Ilya Ulis, ilyaul@matribi.co.il
+# Wrote by Ilya Ulis, ilyaul@matrixbi.co.il
 # Ver. 0.1 (04.01.2018)
 #####
 
